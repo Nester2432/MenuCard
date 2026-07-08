@@ -150,7 +150,7 @@ export default function PricingPage() {
 
       {/* Summary */}
       <div className="text-xs text-neutral-400 text-center">
-        Tip: presioná <kbd className="px-1.5 py-0.5 bg-neutral-100 rounded font-mono">Enter</kbd> para guardar un precio o usá "Guardar todo"
+        Tip: presioná <kbd className="px-1.5 py-0.5 bg-neutral-100 rounded font-mono">Enter</kbd> para guardar un precio o usá &quot;Guardar todo&quot;
       </div>
     </div>
   );
